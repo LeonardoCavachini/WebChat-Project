@@ -53,10 +53,7 @@
 }
 
 .S2 {
-  flex: 1;
-
-  max-width: 75%;
-  align-self: stretch;
+  overflow: auto;
 }
 
 .S2 h2 {
